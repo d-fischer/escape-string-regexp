@@ -1,14 +1,12 @@
 {
-	"name": "escape-string-regexp",
+	"name": "@d-fischer/escape-string-regexp",
 	"version": "4.0.0",
 	"description": "Escape RegExp special characters",
 	"license": "MIT",
-	"repository": "sindresorhus/escape-string-regexp",
-	"funding": "https://github.com/sponsors/sindresorhus",
+	"repository": "d-fischer/escape-string-regexp",
 	"author": {
-		"name": "Sindre Sorhus",
-		"email": "sindresorhus@gmail.com",
-		"url": "https://sindresorhus.com"
+		"name": "Daniel Fischer",
+		"email": "daniel@d-fischer.dev"
 	},
 	"engines": {
 		"node": ">=10"
